@@ -148,7 +148,7 @@ class LoginForm extends State<Login> {
                 padding: const EdgeInsets.only(left: 260),
                 child: GestureDetector(
                   onTap: (){
-                    Navigator.pushNamed(context, '/onboard3');
+                    Navigator.pushNamed(context, '/forgotpass');
                   },
                   child: Text('Recovery Password', textAlign: TextAlign.right,
                     style: GoogleFonts.raleway(

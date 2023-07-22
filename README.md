@@ -1,4 +1,4 @@
-# untitled
+# Slicing Project
 
 A new Flutter project.
 
